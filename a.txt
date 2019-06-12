@@ -1,1 +1,6 @@
 it is a test file
+<<<<<<< master
+=======
+the third text
+move test
+>>>>>>> local

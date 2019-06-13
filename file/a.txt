@@ -1,0 +1,10 @@
+it is a test file
+<<<<<<< master
+=======
+the third text
+<<<<<<< master
+move test
+>>>>>>> local
+=======
+move test two 
+>>>>>>> local
